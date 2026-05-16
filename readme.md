@@ -5,8 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/parteekdalal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteekdala=https://x.com/parteekdalal99l)
 
-## 🎈 About Me
-
+## About me
 I'm a Data Science Student, looking for like minded people who are curious to learn. I enjoy learning by doing and experimenting!
 
 **Core Skills:**  
