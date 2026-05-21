@@ -45,8 +45,3 @@ Xplorer - [GitHub Repo](https://github.com/parteekdalal/Xplorer)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-
-## GitHub Stats  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=parteekdalal&theme=dracula&hide_border=true&border_radius=10&card_width=499&card_height=200)](https://git.io/streak-stats)
